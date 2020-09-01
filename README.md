@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Software Engineer, Web Developer & Full Stack Developer <img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h2>
-- 🔭 I’m currently Graduate Student at Dalhousie University
-- 🌱 I’m currently learning Java, Spring boot, Design Patterns, Angular, and JavaScript related frameworks
-- 👯 I’m looking to collaborate on Web development using Spring boot and Angular stack
+- 🔭 I’m currently Graduate Student at Dalhousie University<br>
+- 🌱 I’m currently learning Java, Spring boot, Design Patterns, Angular, and JavaScript related frameworks<br>
+- 👯 I’m looking to collaborate on Web development using Spring boot and Angular stack<br>
