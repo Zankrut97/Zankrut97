@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Software Engineer, Web Developer & Full Stack Developer </h2>
-<img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right">
+<h2> Software Engineer, Web Developer & Full Stack Developer <img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h2>
 
