@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Zankrut Thakkar 👋
 
 <!--
 **Zankrut97/Zankrut97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.imgur.com/Vmv1Vem.gif" alignwidth="250px" align="right">
+<h2> Software Engineer, Web Developer & Full Stack Developer </h2>
+<img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right">
 
