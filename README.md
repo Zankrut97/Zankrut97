@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently Graduate Student at Dalhousie University<br>
 - 🌱 I’m currently learning Java,Spring boot,Design Patterns,Angular & JavaScript related frameworks<br>
 - 👯 I’m looking to collaborate on Web Application Development using Spring boot & Angular stack<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zankrut97)](https://github.com/anuraghazra/github-readme-stats)
