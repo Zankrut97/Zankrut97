@@ -1,5 +1,4 @@
-### Hi I'm Zankrut Thakkar 👋
-
+<h1 align="center">Hi 👋, I'm Zankrut Thakkar</h1>
 <!--
 **Zankrut97/Zankrut97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Software Engineer, Web Developer & Full Stack Developer <img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h2>
+<!--<h2> Software Engineer, Web Developer & Full Stack Developer <img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h2>-->
+<h3 align="center">A passionate Software Developer, Web Developer & Full Stack Developer from India<img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h3>
+
 - 🔭 I’m currently Graduate Student at Dalhousie University<br>
 - 🌱 I’m currently learning Java,Spring boot,Design Patterns,Angular & JavaScript related frameworks<br>
 - 👯 I’m looking to collaborate on Web Application Development using Spring boot & Angular stack<br>
 
 
-<h1 align="center">Hi 👋, I'm Zankrut Thakkar</h1>
-<h3 align="center">A passionate Software Developer, Web Developer & Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zankrut97" alt="zankrut97" /> </p>
 
