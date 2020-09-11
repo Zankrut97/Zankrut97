@@ -55,10 +55,10 @@ Here are some ideas to get you started:👋,
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-zeta-rouge.vercel.app/api?username=zankrut97&show_icons=true" alt="zankrut97" /></p>-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zankrut97)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zankrut97)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img src="https://i.imgur.com/V9FrWCE.png" alt="bottom">
 <p align="center">
 <a href="https://linkedin.com/in/zankrut thakkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zankrut thakkar" height="30" width="30" /></a></p>
+<img src="https://i.imgur.com/V9FrWCE.png" alt="bottom">
   
   
