@@ -1,27 +1,12 @@
 <img src="https://i.imgur.com/YBX8miU.png" alt="Hero image">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zankrut Thakkar</h1>
-<!--
-**Zankrut97/Zankrut97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:👋,
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--<h2> Software Engineer, Web Developer & Full Stack Developer <img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h2>-->
 <h3 align="center">A passionate Software Developer, Web Developer & Full Stack Developer<img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h3>
 
 - 🔭 I’m a Graduate Student at Dalhousie University<br>
 - 🌱 I’m currently learning Java,Spring boot,Design Patterns,Angular & JavaScript related frameworks<br>
 - 👯 I’m looking to collaborate on Web Application Development using Spring boot & Angular stack<br>
-
-
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=zankrut97" alt="zankrut97" /> </p>-->
 <h3>Technologies and Tools</h3>
@@ -53,12 +38,9 @@ Here are some ideas to get you started:👋,
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-zeta-rouge.vercel.app/api?username=zankrut97&show_icons=true" alt="zankrut97" /></p>-->
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zankrut97)](https://github.com/anuraghazra/github-readme-stats)-->
 <p align="center">
   <i>Let's connect!!</i>
-
   <p align="center">    
     <a href="https://www.linkedin.com/in/zankrut-thakkar/" alt="Linkedin"><img src="https://i.imgur.com/xFuGGvw.png" width="40" height="40"/></a>
     <a href="mailto:zankrut.thakkar@dal.ca" alt="Contact me"><img src="https://i.imgur.com/US98zbr.png" width="40" height="40"/></a>
