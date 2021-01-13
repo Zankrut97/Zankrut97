@@ -36,11 +36,11 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
+</p>-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-zeta-rouge.vercel.app/api?username=zankrut97&show_icons=true" alt="zankrut97" /></p>-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zankrut97)](https://github.com/anuraghazra/github-readme-stats)-->
 <p align="center">
-  <i>Let's connect!!</i>
+  <i align="center">Let's connect!!</i>
   <p align="center">    
     <a href="https://www.linkedin.com/in/zankrut-thakkar/" alt="Linkedin"><img src="https://i.imgur.com/xFuGGvw.png" width="40" height="40"/></a>
     <a href="mailto:zankrut.thakkar@dal.ca" alt="Contact me"><img src="https://i.imgur.com/US98zbr.png" width="40" height="40"/></a>
