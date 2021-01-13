@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Web Application Development using Spring boot & Angular stack<br>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=zankrut97" alt="zankrut97" /> </p>-->
-<h3>Technologies and Tools</h3>
+<!--<h3>Technologies and Tools</h3>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
